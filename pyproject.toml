@@ -28,7 +28,7 @@ pytest-cov = "7.0.0"
 ruff = "0.14.2"
 
 [tool.poetry.group.docs.dependencies]
-pdoc = ">=14.7,<16.0"
+pdoc = ">=14.7,<17.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
